@@ -1,0 +1,7 @@
+{
+	"name": "Fart Reverb Button",
+	"author": "Nat Sepruko",
+	"license": "MIT",
+	"version": "1.0.0",
+	"description": "Adds a \"fart reverb button\" to the Discord system tray context menu."
+}
